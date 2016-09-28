@@ -13,6 +13,11 @@ Ambos arquivos estão no formato PDF com o ODF embutido, o que significa
 que pode ser aberto num leitor de PDF como o Acrobat Reader ou Evince e
 também pode ser aberto no LibreOffice para edição imediata.
 
+Encontra também as páginas 23 a 29 da revista Libre Office Magazine,
+especial agradecimento à Eliane Domingos de Souza, Editora da Revista.
+A revista na íntegra pode ser encontrada em:
+https://pt-br.libreoffice.org/assets/Uploads/PT-BR-Documents/Magazine/LM-ED03.pdf
+
 Obrigado por utilizar o modelo, isso fortalece a continuidade desse
 trabalho.
 
